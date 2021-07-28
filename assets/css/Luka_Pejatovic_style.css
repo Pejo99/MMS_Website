@@ -1,0 +1,29 @@
+body{
+    color:black !important;
+}
+
+.header-area{
+    background-color: rgb(109, 211, 206);
+}
+
+#container_custom{
+    border-bottom: solid black 1px;
+}
+
+.homepage_content p{
+    font-size:17px
+}
+
+.homepage_content iframe{
+    margin:auto !important;
+    width:760px;
+    height:415px;
+}
+
+@media (max-width: 991px) {
+    .homepage_content iframe{
+        margin:auto !important;
+        width: 500px;
+        height:370px;
+    }
+}
