@@ -1,3 +1,42 @@
+.about-section{
+    margin-top: 120px;
+    margin-left: 15px;
+    position: left;
+    font-size: 20px;
+
+
+}
+.about-title{
+    margin-top: 120px;
+    margin-left: 15px;
+    position: left;
+    font-size: 20px;
+
+}
+.column{
+margin-top: 50px;
+
+}
+.column-down{
+
+    margin-top: 0.1%;
+}
+.tekst{
+margin-left: 15px;
+
+}
+.picture{
+    size: 100%;
+    position: relative;
+    position: right;
+
+
+}
+.card-right{
+   margin-left: 100%;
+
+
+}
 body{
     color:black !important;
 }
