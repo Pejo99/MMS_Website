@@ -64,3 +64,23 @@ body{
         height:370px;
     }
 }
+
+/* ABOUT US */
+
+.about-title p{
+    color: black;
+    font-size: larger;
+    margin-bottom: 25px;
+}
+
+.align-content-right{
+    text-align: right;
+}
+
+
+/* CONTACT*/
+
+.contact-container{
+    background-color:rgba(79, 181, 176, 0.5);
+    border-radius: 15px;
+}
