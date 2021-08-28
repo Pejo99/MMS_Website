@@ -16,7 +16,7 @@ body {
 }
 
 .about-title {
-    padding-top: 140px;
+    padding-top: 120px;
     margin-left: 15px;
     position: left;
     font-size: 20px;
@@ -47,6 +47,12 @@ body {
     border-bottom: 1px solid black;
 }
 
+@media (max-width: 991px) {
+    .navbar {
+        margin-top:0;
+    }
+}
+
 /* UNIVERSAL */
 
 .content_style p {
@@ -54,7 +60,7 @@ body {
 }
 
 .content_style {
-    background: rgba(197, 239, 247, 0.9);
+    background: rgba(177, 219, 225, 0.9);
     border-radius: 20px;
 }
 
@@ -89,7 +95,7 @@ body {
 }
 
 .container .card {
-    background: rgba(250, 250, 250, 0.7);
+    background: rgba(245, 245, 245, 0.9);
     border-radius: 10px;
 }
 
