@@ -129,6 +129,14 @@ body {
   display: none;
 }
 
+.center{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
 .prev, .next {
   cursor: pointer;
   position: absolute;
