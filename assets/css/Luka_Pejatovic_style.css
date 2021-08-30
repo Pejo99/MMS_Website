@@ -74,6 +74,16 @@ body {
     height: 415px;
 }
 
+#abbazia-video{
+    text-align: center;
+    margin:auto;
+    display: block;
+    margin-top: 40px !important;
+    display: block;
+    width: 800px;
+    margin-top: 30px;
+}
+
 
 @media (max-width: 991px) {
     .content_style iframe {
