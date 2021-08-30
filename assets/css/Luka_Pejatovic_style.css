@@ -194,6 +194,19 @@ body {
     margin:auto;
 }
 
+.other-activities-header{
+    padding-top: 50px;
+    margin-left: 15px;
+    position: relative;
+    font-size: 20px;
+}
+
+.other-activities-header p {
+    color: black;
+    font-size: larger;
+    margin-bottom: 25px;
+}
+
 /* CONTACT*/
 
 .contact-container {
