@@ -182,6 +182,14 @@ body {
   text-align: center;
 }
 
+.text p{
+    background:rgba(245, 245, 245, 0.9);
+    color: black;
+    border-radius: 10px ;
+    margin: auto;
+    width: 20%;
+}
+
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
